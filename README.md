@@ -27,7 +27,7 @@ bash <(curl -sL https://raw.githubusercontent.com/feizai00/socks5-ss-web/main/in
 1.  **克隆仓库**
     ```bash
     git clone https://github.com/feizai00/socks5-ss-web.git
-    cd xray-converter
+    cd socks5-ss-web
     ```
 
 2.  **配置环境**

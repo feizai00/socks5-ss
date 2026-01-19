@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Xray Converter 一键部署脚本
-# GitHub: https://github.com/feizai00/socks5-ss-web
+# GitHub: https://github.com/YOUR_USERNAME/xray-converter
 
 set -e
 
